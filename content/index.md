@@ -1,6 +1,6 @@
 ---
 title: Home
-date: "13"
+date: 2026-05-18
 tags:
   - ihatethissubjectsomuch
 ---
